@@ -1,0 +1,6 @@
+pandas
+requests
+rapidfuzz
+streamlit
+python-dotenv
+plotly
