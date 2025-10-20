@@ -37,3 +37,4 @@ def generate_issue_topics(title, description):
         # fallback: split by comma if not valid JSON
         return [t.strip().lower() for t in raw.split(",") if t]
     return []
+

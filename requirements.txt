@@ -4,3 +4,4 @@ rapidfuzz
 streamlit
 python-dotenv
 plotly
+openai
