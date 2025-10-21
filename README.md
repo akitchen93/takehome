@@ -16,7 +16,7 @@ It provides a small data pipeline and dashboard that:
 ```bash
 python3 -m pip install -r requirements.txt
 cp .env.example .env
-cp signals.example.json
+cp signals.example.json signals.json
 streamlit run app.py
 ```
 
